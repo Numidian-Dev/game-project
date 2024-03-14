@@ -1,0 +1,19 @@
+//colors
+$grey: #1d1d1d;
+$black: #111010;
+$orange: #ed8600;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: $black;
+}
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
