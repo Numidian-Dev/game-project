@@ -1,0 +1,55 @@
+#the-game {
+    .title-page {
+        font-size: 2.7rem;
+        text-align: center;
+        color: white;
+        text-transform: uppercase;
+        margin: 50px 0px 100px;
+        font-weight: bold;
+    }
+}
+
+.container-theGame {
+    width: 80%;
+    margin: auto;
+}
+
+.content-img {
+    width: 500px;
+    height: 270px;
+
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+}
+.content-p {
+    width: 90%;
+    color: white;
+    margin-left: 50px;
+    h1 {
+        font-weight: bold;
+        font-size: 1.8rem;
+        margin-bottom: 30px;
+    }
+    p {
+        width: 100%;
+        text-align: justify;
+        line-height: 1.5;
+        font-size: 1.1rem;
+    }
+}
+
+.contents-game {
+    display: flex;
+    margin-bottom: 50px;
+}
+.contents-game:nth-child(2) {
+    flex-direction: row-reverse;
+    .content-p {
+        margin-left: 0px;
+        margin-right: 50px;
+    }
+}

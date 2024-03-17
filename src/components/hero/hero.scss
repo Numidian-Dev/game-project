@@ -115,15 +115,7 @@
         .overlay {
             .content {
                 width: 90% !important;
-                bottom: 100px;
-                left: 50%;
-                transform: translateX(-50%);
-                margin-left: 0px !important;
 
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                flex-direction: column;
                 h1 {
                     font-size: 2rem;
                 }
