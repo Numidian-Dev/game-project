@@ -1,0 +1,58 @@
+#about {
+    width: 100%;
+    height: auto;
+
+    .container-about {
+        h1 {
+            font-size: 2.7rem;
+            text-align: center;
+            color: white;
+            text-transform: uppercase;
+            margin: 100px 0px 100px;
+            font-weight: bold;
+        }
+        article {
+            width: 75%;
+            margin: auto;
+            background-color: rgba(21, 21, 21, 0.322);
+            padding: 100px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: white;
+            margin-bottom: 20px;
+        }
+        p {
+            color: rgb(177, 177, 177);
+            text-align: justify;
+            margin: auto;
+            margin-bottom: 50px;
+            line-height: 1.5;
+            font-size: 1.1rem;
+        }
+    }
+}
+
+@media screen and (max-width: 769px) {
+    #about {
+        .container-about {
+            article {
+                width: 80%;
+                margin: auto;
+                background-color: rgba(21, 21, 21, 0.322);
+                padding: 40px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 321px) {
+    #about {
+        .container-about {
+            article {
+                width: 90%;
+                padding: 20px;
+            }
+        }
+    }
+}

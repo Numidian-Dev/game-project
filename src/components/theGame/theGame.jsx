@@ -16,10 +16,7 @@ const TheGame = () => {
                             omnis dolores. Est laboriosam dolore et assumenda numquam At numquam porro
                             hic voluptas odit ut quas reiciendis ea libero consequatur. Est quia ullam qui
                             unde quasi aut omnis internos! Lorem ipsum dolor sit amet. Et incidunt sequi aut adipisci enim sed quia
-                            eius et nemo possimus qui laboriosam incidunt non quisquam cupiditate quo
-                            omnis dolores. Est laboriosam dolore et assumenda numquam At numquam porro
-                            hic voluptas odit ut quas reiciendis ea libero consequatur. Est quia ullam qui
-                            unde quasi aut omnis internos!</p>
+                            eius et nemo possimus qui laboriosam !</p>
                     </div>
                 </div>
                 <div className="contents-game">
@@ -33,10 +30,7 @@ const TheGame = () => {
                             omnis dolores. Est laboriosam dolore et assumenda numquam At numquam porro
                             hic voluptas odit ut quas reiciendis ea libero consequatur. Est quia ullam qui
                             unde quasi aut omnis internos! Lorem ipsum dolor sit amet. Et incidunt sequi aut adipisci enim sed quia
-                            eius et nemo possimus qui laboriosam incidunt non quisquam cupiditate quo
-                            omnis dolores. Est laboriosam dolore et assumenda numquam At numquam porro
-                            hic voluptas odit ut quas reiciendis ea libero consequatur. Est quia ullam qui
-                            unde quasi aut omnis internos!</p>
+                            eius et nemo possimus qui laboriosam !</p>
                     </div>
                 </div>
                 <div className="contents-game">
@@ -50,10 +44,7 @@ const TheGame = () => {
                             omnis dolores. Est laboriosam dolore et assumenda numquam At numquam porro
                             hic voluptas odit ut quas reiciendis ea libero consequatur. Est quia ullam qui
                             unde quasi aut omnis internos! Lorem ipsum dolor sit amet. Et incidunt sequi aut adipisci enim sed quia
-                            eius et nemo possimus qui laboriosam incidunt non quisquam cupiditate quo
-                            omnis dolores. Est laboriosam dolore et assumenda numquam At numquam porro
-                            hic voluptas odit ut quas reiciendis ea libero consequatur. Est quia ullam qui
-                            unde quasi aut omnis internos!</p>
+                            eius et nemo possimus qui laboriosam !</p>
                     </div>
                 </div>
             </div>
